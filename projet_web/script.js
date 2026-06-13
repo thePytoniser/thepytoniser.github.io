@@ -1,5 +1,5 @@
-const pages_names = ["hub", "contact",];
-const links_names = ["index","contact",]
+const pages_names = ["hub", "contact","a"];
+const links_names = ["index","contact","a"]
 
 let links = "";
 
