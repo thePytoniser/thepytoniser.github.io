@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/projet_web/style.css">
+    <script src="../scripts/navbar_manager.js"></script>
+    <script src="../scripts/to_do_list_manager.js"></script>
+    <title>To Do list</title>
+</head>
+<body>
+    <div class="content">
+        <details class="nav-drop" id="nav-drop"></details>
+        <div class="main">
+            <h1>To Do list</h1>
+            <input id="task" placeholder="New task">
+            <button onclick="addTask()">Add</button>
+            <ul id="list"></ul>
+            <button onclick="clearAll()">Clear All</button>
+        </div>
+    </div>
+    <script>
+        loadTasks();
+        displayTasks();
+    </script>
+</body>
+</html>
