@@ -12,6 +12,11 @@ input {
     justify-content: center;
 }
 
+video {
+    width:auto;
+    height:auto;
+}
+
 html{
     height: 100%;
     width: 100%;

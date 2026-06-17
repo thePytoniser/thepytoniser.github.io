@@ -1,5 +1,5 @@
-const pages_names = ["hub", "contact", "youtube","To Do list"];
-const links_names = ["index","contact", "youtube","To-Do-list"]
+const pages_names = ["hub", "contact", "youtube","To Do list","Relax","Repertoire"];
+const links_names = ["index","contact", "youtube","To-Do-list","relax","repertoire"]
 
 let links ="<summary aria-label='Menu'>☰</summary><nav id='navbar'>";
 
