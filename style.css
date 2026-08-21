@@ -185,9 +185,9 @@ summary {
 
 /*repertoire*/
 iframe{
-    display:block; 
+    display:flex; 
     border-radius: 1px; 
     border: none; 
-    height: 204px; 
-    width: 100%;
+
+
 }
