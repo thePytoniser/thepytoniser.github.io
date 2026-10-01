@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>blocus_média</title>
+    <link rel="stylesheet" href="/style.css">
+
+</head>
+<body>
+    <h1>photos et vidéos du blocus de charlotte perriand le 01/10/2026</h1>
+    <video src="blocus_photo/WhatsApp Video 2026-10-01 at 22.07.59.mp4"></video>
+    <video src="blocus_photo/WhatsApp Video 2026-10-01 at 22.08.12.mp4"></video>
+    <img src="blocus_photo/WhatsApp Image 2026-10-01 at 22.07.56.jpeg" alt="photo non disponible">
+</body>
+</html>
